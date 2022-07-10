@@ -76,7 +76,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
     return (fahrenheit);  
   // return arrayOfNumbers;
 }
-assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
